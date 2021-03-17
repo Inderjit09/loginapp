@@ -1,3 +1,4 @@
+import React, { Component } from 'react'
 import { createStackNavigator, createAppContainer } from 'react-navigation';
 import Screen1 from './Screen1'
 import Screen2 from './Screen2'
